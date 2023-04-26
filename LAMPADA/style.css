@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: #1E1E1E;
+}
+
+h1{
+    color:rgb(239,235,228);
+}
+header h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+section{
+    background-color: rgb(239,235,228);
+    width: 350px;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+input{
+    background-color: rgb(12,112,242);
+    color:rgb(239,235,228);
+    border:0px;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
